@@ -1,0 +1,3 @@
+libgtkmm-3.0-dev
+sigc++-3.07
+giomm-2.68
